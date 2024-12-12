@@ -21,3 +21,15 @@ npx expo install react-native-svg
 ## install axios(biblioteca para consumir apis)
 
 npm install axios
+
+## installl React Native Bottom Sheet
+
+npm i @gorhom/bottom-sheet
+
+## install map's component
+
+npx expo install react-native-maps
+
+## install expo location
+
+npx expo install expo-location
